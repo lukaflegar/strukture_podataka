@@ -1,0 +1,3 @@
+﻿  zadatak8.c
+C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba8\zadatak8.c(69,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'treePointer'
+  Vjezba8.vcxproj -> C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba8\Debug\Vjezba8.exe
