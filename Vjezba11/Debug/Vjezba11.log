@@ -1,19 +1,2 @@
 ﻿  zadatak11.c
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(351,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(390,25): warning C4047: 'function': 'country *' differs in levels of indirection from 'country **'
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(390,20): warning C4024: 'read_co_from_file': different types for formal and actual parameter 1
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(391,26): warning C4047: 'function': 'country *' differs in levels of indirection from 'country **'
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(391,21): warning C4024: 'print_country_list': different types for formal and actual parameter 1
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(396,25): warning C4047: 'function': 'country *' differs in levels of indirection from 'country **'
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(396,20): warning C4024: 'hash_table_insert': different types for formal and actual parameter 1
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(399,28): warning C4047: 'function': 'country *' differs in levels of indirection from 'country **'
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(399,23): warning C4024: 'query': different types for formal and actual parameter 3
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(400,18): warning C4047: 'function': 'country *' differs in levels of indirection from 'country **'
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(400,13): warning C4024: 'delete_all': different types for formal and actual parameter 1
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(103): warning C4715: 'read_co_from_file': not all control paths return a value
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(131): warning C4715: 'country_insert_sorted': not all control paths return a value
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(176): warning C4716: 'print_country_list': must return a value
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(282): warning C4716: 'query': must return a value
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(296): warning C4716: 'find_cities': must return a value
-C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\zadatak11.c(324): warning C4716: 'hash_table_init': must return a value
   Vjezba11.vcxproj -> C:\Users\LukaFlegar\Desktop\Moj GitHub\strukture_podataka\Vjezba11\Debug\Vjezba11.exe
